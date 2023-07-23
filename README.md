@@ -1,3 +1,5 @@
+# Nah bro i abandoned java maybe later idk
+
 # Lunch
 Lunch is open source launcher program, written in Java with JavaFX library.
 
